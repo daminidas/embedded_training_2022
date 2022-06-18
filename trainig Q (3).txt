@@ -1,0 +1,92 @@
+question 3
+
+
+int main()
+{
+int Aptitude; 
+printf("Aptitude\n");
+scanf("%d",&Aptitude);
+int Logical_reasoning;
+printf("Logical_reasoning\n");
+scanf("%d",&Logical_reasoning);
+int Debugging;
+printf("Debugging\n");
+scanf("%d",&Debugging);
+int Programming;
+printf("Programming\n");
+scanf("%d",&Programming);
+ int Total_score;
+Total_score = Aptitude+Logical_reasoning+Debugging+Programming;
+printf("Total_score is %d",Total_score);
+ return 0;
+}
+
+
+
+QUES1
+
+#include<stdio.h>
+#include <stdio.h>
+#include<stdlib.h>
+int main()
+{
+    int Name,Topic,Duration;
+    printf("Welcome to online exam");
+    printf("\nName");
+    scanf(" %d\n",Name);
+    printf("Topic/n");
+    scanf("%d\n",Topic");
+   // printf("Duration\n");
+   //scanf("%d\n",Duration);
+   // printf("Marks\n");
+   // scanf("%d\n",Marks);
+    return 0;
+}
+
+#include<stdio.h>
+#include <stdio.h>
+#include<stdlib.h>
+int main()
+{
+  int Name;
+  printf("Welcome to online exam");
+  printf(" \nName\n");
+  scanf("%d",Name);
+  int Topic;
+  printf("Topic\n");
+ scanf("%d",Topic);
+  int Duration;
+  printf("Duration\n");
+  scanf("%d",Duration);
+  int Marks;
+  printf("Marks\n");
+  scanf("%d",Marks);
+    return 0;
+}
+
+QUES 2
+
+#include<stdio.h>
+
+
+int main()
+{
+printf("Welcome to online exam\n");
+int Name;
+printf("Name\n");
+scanf("%d",Name);
+int Venue;
+printf("Venue\n");
+scanf("%d",Venue);
+int Capacity;
+printf("Capacity\n");
+scanf("%d",Capacity);
+int Date;
+printf("Date\n");
+scanf("%d\n",Date);
+int Time;
+printf("Time\n");
+scanf("%d\n",Time);
+
+return 0;
+}
