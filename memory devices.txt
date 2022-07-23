@@ -1,0 +1,101 @@
+                                      
+
+                                        1.   MEMORY DEVICES
+
+
+
+           
+      There are two basic types of memory:
+
+                        1)Primary/main memory
+                        2)External/secondary memory
+
+
+        Primary Memory
+                       Random Access Memory(RAM)
+                                  Static RAM (SRAM)
+                                  Dynamic RAM (DRAM)
+
+                              Most modern computers and phones have from 2GB up to 32GB of RAM. 
+                               In laptops, it's common to have 4GB, 8GB, or 16GB.
+
+
+                       Read-Only memory(ROM)
+                                  MROM
+                                  PROM
+                                  EPROM - Erasable programmable read-only memory
+                                  EEPROM - Electrically Erasable and Programmable ROM
+                          
+                                Most smartphones nowadays have ROM ranging from 8GB to 256GB and more.
+                         
+                          
+      Secondary Memory
+                      1)Hard disk drives (HDD)
+                          The capacity can be anywhere from 250GB to 20TB. 
+                           The standard capacity for most users is 500GB.
+
+                       2)Solid-state drive (SSD)
+                                SSDs for computers are available from 120GB up to 30.72TB capacities.
+
+                       3)Optical discs
+                                 CD-ROM - Compact Disc Read-Only Memory
+                                 CD-R - Compact Disc-Recordable
+                                 CD-RW - Compact Disk Re-Writable
+
+                                     CDs were co-created by Sony and Philips and were first manufactured in August 1982 can                                      store up to 700MB of data.
+                                     DVDs were invented in 1995. The largest capacity of the DVD is 17.04GB.
+                                     Blu-ray discs can store up to 50GB of data.
+
+                      4)USB Flash Drive(2TB)
+
+                      5)SD Card(8GB, 16GB, 32GB, 64GB and 128GB)
+
+                      6)Magnetic Tape(Maximum capacity of currently available magnetic tape is 10TB.)
+
+
+                   INTERFACES
+                  
+
+                    i. Onboard communication interface - Used for internal communication in systems
+                               [ I2C,SPI,UART,CAN AND Parallel Bus interfaces ]
+                    ii. External communication interface- communicate with external world
+                               [USB, BLUETOOTH, WiFi, ZigBee, RS-232C&amp; RS-485, IEEE1394 firewire ]
+
+
+
+
+                                    2. PC 
+
+
+                                     Internal computer hardware devices
+                                     CPU
+                                     Drive (e.g., Blu-ray, CD-ROM, DVD, floppy drive, hard drive, and SSD).
+                                     Fan (heat sink)
+                                     Modem
+                                     Motherboard
+                                     Network card
+                                     Power supply
+                                     RAM
+                                     Sound card
+                                     Video card
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Floppy Disk
+                    
